@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36203.30 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Списък от прости числа", "Списък от прости числа.csproj", "{03468B01-570E-4F30-8774-1EC0A0F3159E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spisuk ot prosti chisla", "Spisuk ot prosti chisla.csproj", "{1A50AFDD-5864-4399-AAAF-3701C815B591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03468B01-570E-4F30-8774-1EC0A0F3159E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03468B01-570E-4F30-8774-1EC0A0F3159E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03468B01-570E-4F30-8774-1EC0A0F3159E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03468B01-570E-4F30-8774-1EC0A0F3159E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A50AFDD-5864-4399-AAAF-3701C815B591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A50AFDD-5864-4399-AAAF-3701C815B591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A50AFDD-5864-4399-AAAF-3701C815B591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A50AFDD-5864-4399-AAAF-3701C815B591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {21850ADF-DBD8-4245-9696-F95737055192}
+		SolutionGuid = {3FC965E6-6065-45D3-AB15-474C6ACDD996}
 	EndGlobalSection
 EndGlobal

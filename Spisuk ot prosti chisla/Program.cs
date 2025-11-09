@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Списък_от_прости_числа
+namespace Spisuk_ot_prosti_chisla
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-
+            //иначе ми дава въпросителни
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.Write("Въведи до колко да е списъкът: ");
@@ -44,9 +44,6 @@ namespace Списък_от_прости_числа
             }
             Console.WriteLine();
 
-
         }
     }
 }
-
-

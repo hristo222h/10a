@@ -1,0 +1,7 @@
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\bin\Debug\Spisuk ot prosti chisla.exe.config
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\bin\Debug\Spisuk ot prosti chisla.exe
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\bin\Debug\Spisuk ot prosti chisla.pdb
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\obj\Debug\Spisuk ot prosti chisla.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\obj\Debug\Spisuk ot prosti chisla.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\obj\Debug\Spisuk ot prosti chisla.exe
+C:\Users\hrist\Desktop\New folder\10a\PC\Spisuk ot prosti chisla\obj\Debug\Spisuk ot prosti chisla.pdb

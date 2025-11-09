@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{03468B01-570E-4F30-8774-1EC0A0F3159E}</ProjectGuid>
+    <ProjectGuid>{1A50AFDD-5864-4399-AAAF-3701C815B591}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Списък_от_прости_числа</RootNamespace>
-    <AssemblyName>Списък от прости числа</AssemblyName>
+    <RootNamespace>Spisuk_ot_prosti_chisla</RootNamespace>
+    <AssemblyName>Spisuk ot prosti chisla</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
