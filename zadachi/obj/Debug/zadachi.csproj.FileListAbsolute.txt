@@ -1,0 +1,8 @@
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\bin\Debug\zadachi.exe.config
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\bin\Debug\zadachi.exe
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\bin\Debug\zadachi.pdb
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\obj\Debug\zadachi.csproj.AssemblyReference.cache
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\obj\Debug\zadachi.csproj.CoreCompileInputs.cache
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\obj\Debug\zadachi.exe
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\obj\Debug\zadachi.pdb
+C:\Users\hrist\Desktop\New folder\10a\PC\zadachi\obj\Debug\zadachi.exe.config
